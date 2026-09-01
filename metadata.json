@@ -1,0 +1,6 @@
+{
+  "name": "LEAP Internship Manager",
+  "description": "AI-enabled Digital LEAP Internship Management System for Limkokwing University of Creative Technology, Sierra Leone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

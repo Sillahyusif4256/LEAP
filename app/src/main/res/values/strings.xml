@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LEAP Manager</string>
+    <string name="app_full_name">LEAP Internship Manager</string>
+    <string name="university_name">Limkokwing University of Creative Technology</string>
+    <string name="university_location">Sierra Leone Campus</string>
+    <string name="dissertation_subtitle">Academic LEAP Digitalization Prototype</string>
+</resources>
